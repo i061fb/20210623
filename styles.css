@@ -3,5 +3,5 @@ body {
   background-position: left;
   background-size: contain;
   background-image: url("https://th.bing.com/th/id/OIP.UeN9DXIwfukgRqGLL7uMyAHaE8?w=229&h=180&c=7&o=5&dpr=1.41&pid=1.7");
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
